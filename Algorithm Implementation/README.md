@@ -16,5 +16,5 @@ O(V + E)
 Input: Graph, Start Node  
 Output: Traversal order of nodes
 
-![Sample Output Screenshot](bfs_output.png
+![Sample Output Screenshot](bfs_output.png)
 
