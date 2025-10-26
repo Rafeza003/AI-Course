@@ -14,5 +14,5 @@ Duration: 6 months
 
 ## Supervisor / Course Taken by
 Razorshi Prozzwal Talukder,
-Department of Computer Science
+Department of Computer Science(NEUB)
 
