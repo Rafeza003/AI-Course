@@ -13,6 +13,6 @@ Semester: Fall 2025
 Duration: 6 months
 
 ## Supervisor / Course Taken by
-Razorshi Prozzwal Talukder
+Razorshi Prozzwal Talukder,
 Department of Computer Science
 
