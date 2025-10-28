@@ -80,7 +80,7 @@ Both are free, web-based tools for making interactive and animated slides.
 | 1 | Idea Generation | ChatGPT | [chat.openai.com](https://chat.openai.com) |
 | 2 | Prompt Writing | GeneratePromptAI | [share.google/vBB2QTKsSOf13x3vP](https://share.google/vBB2QTKsSOf13x3vP) |
 | 3 | Video Creation | InVideo AI | [invideo.io](https://invideo.io) |
-| 4 | Presentation Design | Gamma App / Canva | [gamma.app](https://gamma.app) / [canva.com](https://www.canva.com) |
+| 4 | Presentation Design | Gamma App / Canva | [gamma.app](https://gamma.app) |
 
 ---
 
