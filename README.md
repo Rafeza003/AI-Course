@@ -1,24 +1,28 @@
-# AI Course
+# 🤖 AI Course
 
-## Short Notes / Purpose
-This course is designed to introduce fundamental AI concepts, algorithms, and tools through hands-on projects.
+## 🎯 Short Notes / Purpose
+This course is designed to introduce **fundamental Artificial Intelligence (AI)** concepts, algorithms, and tools through **hands-on projects**.  
+It focuses on problem-solving, game logic, and intelligent agent design to simulate real-world AI applications.
 
-## What I Learned
-- Basics of AI algorithms (like search, minimax, etc.)
-- AI game logic and decision-making
-- Practical AI tools for presentation and video
+---
 
-## Duration
-Semester: Fall 2025  
-Duration: 6 months
+## 📚 What I Learned
+- 🧩 Basics of AI algorithms (A*, AO*, BFS, DFS, Minimax, etc.)
+- 🎮 AI game logic and decision-making strategies
+- 🧠 Practical AI tools for automation, presentation, and video creation
+- 💡 Concept of agents, environments, and heuristic problem-solving
 
-## Supervisor / Course Taken by
-Razorshi Prozzwal Talukder,
-Department of Computer Science(NEUB)
-# 🤖 AI Algorithms Overview
+---
 
-Welcome to the **Algorithm Implementation** section!  
-This part of the AI Course explores core search and decision-making algorithms used in Artificial Intelligence.
+## ⏰ Duration
+- **Semester:** Fall 2025  
+- **Total Duration:** 6 Months  
+
+---
+
+## 👨‍🏫 Supervisor / Course Taken By
+**Razorshi Prozzwal Talukder**  
+_Department of Computer Science, North East University Bangladesh (NEUB)_
 
 ---
 
@@ -56,12 +60,14 @@ This part of the AI Course explores core search and decision-making algorithms u
 
 ### 🧭 Legend
 - **b** → Branching factor  
-- **d** → Depth of goal node  
+- **d** → Goal depth  
 - **m** → Maximum search depth  
 - **k** → Beam width  
 
 ---
 
-📘 *This README file summarizes the main AI search and decision-making algorithms with their complexities and applications.*
+📘 *This repository is part of the AI Course project under NEUB, summarizing key AI algorithms, their applications, and performance analysis.*
+
+
 
 
