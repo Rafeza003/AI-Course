@@ -64,8 +64,6 @@ Both are free, web-based tools for making interactive and animated slides.
 ### 🧰 Tools Used:
 - **Gamma App:** For interactive, AI-assisted presentation generation  
   🔗 [https://gamma.app](https://gamma.app)  
-- **Canva:** For slide design, icons, and animations  
-  🔗 [https://www.canva.com](https://www.canva.com)
 
 ### 🪜 Steps Followed:
 1. Selected a **modern, minimal template**  
