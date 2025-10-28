@@ -99,7 +99,6 @@ You can access my final project outputs using the links below:
 ## 📚 Author
 
 **Project Title:**  AI Course – Educational Video & Presentation 
-
 **Created by:**  Rafeza Islam Smriti
 **Semester:**  Fall 2025  
 **Duration:**  6 Months  
