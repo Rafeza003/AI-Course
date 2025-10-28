@@ -13,7 +13,6 @@ Each algorithm is clearly implemented with **well-documented code and examples**
 5. [Best-First Search](#-best-first-search)
 6. [Beam Search](#-beam-search)
 7. [Bidirectional Search](#-bidirectional-search)
-8. [Hill Climbing](#-hill-climbing)
 9. [Minimax Algorithm](#-minimax-algorithm)
 10. [Alpha-Beta Pruning](#-alpha-beta-pruning)
 11. [A* (A-Star) Search](#-a-astar-search)
