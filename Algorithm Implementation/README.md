@@ -8,15 +8,15 @@ Each algorithm is clearly implemented with **well-documented code and examples**
 ## 📚 Table of Contents
 1. [Breadth-First Search (BFS)](#-breadth-first-search-bfs)
 2. [Depth-First Search (DFS)](#-depth-first-search-dfs)
-3. [Depth-Limited Search (DLS)](#️-depth-limited-search-dls)
+3. [Depth-Limited Search (DLS)](#-depth-limited-search-dls)
 4. [Iterative Deepening Search (IDS)](#-iterative-deepening-search-ids)
 5. [Best-First Search](#-best-first-search)
 6. [Beam Search](#-beam-search)
 7. [Bidirectional Search](#-bidirectional-search)
-8. [Bidirectional Path Search](#-bidirectional-path-search)
-9. [Hill Climbing](#-hill-climbing)
-10. [Minimax Algorithm](#-minimax-algorithm)
-11. [Alpha-Beta Pruning](#️-alpha-beta-pruning)
+8. [Hill Climbing](#-hill-climbing)
+9. [Minimax Algorithm](#-minimax-algorithm)
+10. [Alpha-Beta Pruning](#-alpha-beta-pruning)
+11. [A* (A-Star) Search](#-a-astar-search)
 
 ---
 
@@ -168,3 +168,37 @@ Extends bidirectional search by reconstructing the full path once the two search
 - Space: **O(b^(d/2))**
 
 **Example Output:**  
+`Path found: A → B → C → D`
+
+---
+
+## 🌟 A* (A-Star) Search
+**How it Works:**  
+A* Search is a **best-first search algorithm** that finds the shortest path from a start node to a goal node using a **heuristic function**. It combines **path cost (g(n))** and **heuristic estimate (h(n))** to determine the next node to explore:
+
+\[
+f(n) = g(n) + h(n)
+\]
+
+**Steps:**
+- Initialize the open list with the start node  
+- Calculate `f(n)` for all neighbors  
+- Select the node with the lowest `f(n)`  
+- Repeat until the goal is reached or no nodes remain  
+- Reconstruct the path from start to goal  
+
+**Applications:**
+- GPS navigation systems  
+- Robot path planning  
+- Video games (pathfinding)  
+- Network routing  
+
+**Complexity:**  
+- Time: **O(b^d)** (worst case, depends on heuristic)  
+- Space: **O(b^d)**  
+
+**Example Output:**  
+`Path found: A → B → D → G`  
+
+
+
