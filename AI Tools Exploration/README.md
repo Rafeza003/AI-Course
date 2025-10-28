@@ -97,10 +97,14 @@ You can access my final project outputs using the links below:
 ---
 
 ## 📚 Author
+
 **Created by:**  Rafeza Islam Smriti
 **Project Title:**  AI Course – Educational Video & Presentation 
+
 **Semester:**  Fall 2025  
-**Duration:**  6 Months  
+
+**Duration:**  6 Months
+
 **Supervisor:**  Razorshi Prozzwal Talukder, Department of Computer Science (NEUB)
 
 ---
