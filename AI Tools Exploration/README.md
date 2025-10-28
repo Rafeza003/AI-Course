@@ -99,6 +99,7 @@ You can access my final project outputs using the links below:
 ## 📚 Author
 
 **Created by:**  Rafeza Islam Smriti
+
 **Project Title:**  AI Course – Educational Video & Presentation 
 
 **Semester:**  Fall 2025  
