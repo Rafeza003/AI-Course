@@ -1,4 +1,4 @@
-                                                              🎮 AI Game Collection (Python)
+ # 🎮 AI Game Collection (Python)
 
 > 🤖 This project contains **three classic AI-based games** developed in Python — each powered by the **Minimax Algorithm** with **Alpha-Beta Pruning** and intelligent move selection.
 
