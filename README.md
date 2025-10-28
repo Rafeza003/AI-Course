@@ -38,6 +38,8 @@ _Department of Computer Science, North East University Bangladesh (NEUB)_
 | **Minimax** | Game playing AI (decision-making under competition) |
 | **BFS** | Finding shortest path in unweighted graphs, web crawlers |
 | **DFS** | Maze solving, topological sorting, tree traversal |
+| **Hill Climbing** | Optimization problems, route finding, AI game heuristics, scheduling problems |
+
 
 ---
 
@@ -55,6 +57,7 @@ _Department of Computer Science, North East University Bangladesh (NEUB)_
 | **Minimax** | O(b^d) | O(b × d) | Used in decision-making games |
 | **BFS** | O(b^d) | O(b^d) | Complete but memory-heavy |
 | **DFS** | O(b^m) | O(b × m) | m = max depth |
+| **Hill Climbing** | O(n) (depends on iterations & neighbors) | O(1) | Simple local search; may get stuck in local maxima |
 
 ---
 
