@@ -25,7 +25,13 @@ The AI predicts the player’s next move using **random choice** or optional heu
 
 **Algorithm Used:**
 - Random Choice AI  
-- Optional pattern-based heuristic  
+- Optional pattern-based heuristic
+
+**How It Works:**
+-Rock beats Scissors (crushes it)
+-Scissors beats Paper (cuts it)
+-Paper beats Rock (covers it)
+-If both players choose the same option, the round is a draw.
 
 **Features:**
 - GUI with Tkinter buttons  
