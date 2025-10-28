@@ -28,9 +28,9 @@ The AI predicts the player’s next move using **random choice** or optional heu
 - Optional pattern-based heuristic
 
 **How It Works:**
-1.Rock beats Scissors (crushes it)
-2.Scissors beats Paper (cuts it)
-3.Paper beats Rock (covers it)
+1.Rock beats Scissors (crushes it).
+2.Scissors beats Paper (cuts it).
+3.Paper beats Rock (covers it).
 4.If both players choose the same option, the round is a draw.
 
 **Features:**
